@@ -1,2 +1,2 @@
 # pricing-project
-i done this project using html, css, flexbox, media query 
+I done this project using html, css, flexbox, media query 
